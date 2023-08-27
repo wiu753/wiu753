@@ -1,6 +1,6 @@
 # Hello! 
 - My name is Martin Wiu 👨
-- I'm a 28-year-old Norwegian web developer 💻
+- I'm a 28-year-old Norwegian software engineer 💻
 - Bachelor in Information Systems and IT-leadership 🎓
 - Bachelor in Computer Engineering 🎓
 - I mostly work with JavaScript and Python ⚒
