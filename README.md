@@ -3,5 +3,6 @@
 - I'm a 28-year-old Norwegian software engineer 
 - Bachelor in Information Systems and IT-leadership 
 - Bachelor in Computer Engineering 
-- I mostly work with C#, Python, and JavaScript 
-- You can reach me on wiu753@gmail.com 
+- I mostly work with C#, Python, and JavaScript
+- I am stuck in Vim
+- You can reach me on martinwiu@proton.me
