@@ -1,8 +1,6 @@
 # Hello! 
 - My name is Martin Wiu 
-- I'm a 29-year-old Norwegian software engineer 
-- Bachelor in Information Systems and IT-leadership 
-- Bachelor in Computer Engineering 
-- I mostly work with C#, Python, and JavaScript
+- I'm a 30-year-old Norwegian software engineer
+- You can read more at [martinwiu.me](martinwiu.me)
 - I am stuck in Vim
 - You can reach me on martinwiu@proton.me
