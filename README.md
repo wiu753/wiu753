@@ -1,4 +1,3 @@
 - Name is Martin Wiu 
 - Norwegian software engineer
-- I use Neovim, btw
 - You can reach me on martinwiu@proton.me
